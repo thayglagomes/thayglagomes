@@ -21,7 +21,7 @@
 
 ---
 
-4️⃣ Estatísticas do GitHub
+2️⃣ Estatísticas do GitHub
 <div align="center">
 
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🌎 Onde me encontrar
+5️⃣ Onde me encontrar
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
