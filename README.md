@@ -33,13 +33,15 @@
 
 </div>
 ---
+
 - [Catálogo IntimoSex](https://github.com/thayglagomes/Projeto_intimosex) – JavaScript + Json + HTML + CSS  
-- [Dashboard de Doadores](https://github.com/thaygla/dashboard-doadores) – PDF dinâmico e relatórios  
-- [Portfolio Pessoal](https://github.com/thaygla/portfolio) – Frontend moderno e responsivo
+- [Portfolio Pessoal]([https://github.com/thaygla/portfolio](https://github.com/thayglagomes/PortfolioTGC)) – Frontend moderno e responsivo
+- 
 ---
 
 ## 🌎 Onde me encontrar
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
 <!--
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)![![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=fff)](https://seu-site.com)-->
