@@ -1,3 +1,5 @@
+![Minha foto](https://github.com/thayglagomes/thayglagomes/blob/main/capa%20github.PNG)
+
 # 👋 Olá, eu sou Thaygla GC
 
 💻 Desenvolvedora **Python | Django | SQL | Data Science |**  
