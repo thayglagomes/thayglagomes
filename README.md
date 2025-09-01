@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou Thaygla  
 
-💻 Desenvolvedora **Python | Django | Data Science | Concursos Tech**  
-🚀 Sempre explorando: **IA, Backend Escalável e Cloud**  
-📚 Atualmente focada em **(coloque aqui algo atual que está estudando)**  
+💻 Desenvolvedora **Python | Django | SQL | Data Science |**  
+🚀 Explorando: **IA, Agentes de IA e UX/UI**  
 
 ---
 
@@ -11,8 +10,8 @@
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-092E20?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 </div>
