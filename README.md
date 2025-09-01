@@ -29,15 +29,14 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayglagomes&show_icons=true&theme=default&count_private=true&title_color=FFA500&icon_color=FFA500&text_color=FFD580&bg_color=0D1117)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thaygla&theme=dark&fire=FFA500&currStreakNum=FFA500&stroke=FFD580)
-
-
-<!--!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayglagomes&layout=compact&theme=dark)-->
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayglagomes&layout=compact&theme=dark)
 
 </div>
 
 ---
 
 3️⃣ Projetos em Destaque
+
 [Catálogo IntimoSex](https://github.com/thayglagomes/Projeto_intimosex) – JavaScript + Json + HTML + CSS  
 [Portfolio Pessoal](https://github.com/thayglagomes/PortfolioTGC) – Frontend moderno e responsivo
 
