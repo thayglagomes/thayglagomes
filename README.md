@@ -29,26 +29,16 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thaygla&theme=dark&fire=FFA500&currStreakNum=FFA500&stroke=FFD580)
 
 
-<!--!!![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thayglagomes&theme=dark)
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayglagomes&show_icons=true&count_private=true&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaygla&show_icons=true&count_private=true&theme=default&title_color=FFA500&icon_color=FFA500&text_color=FFD580&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayglagomes&layout=compact&theme=dark)-->
+<!--!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayglagomes&layout=compact&theme=dark)-->
 
 </div>
-
----
-
-## ✨ Projetos em Destaque
-- 🩸 **Sistema de Fenotipagem com Django** → otimização de consultas SQL e ORM  
-- 📊 **Dashboard de Doadores** → PDF dinâmico com ReportLab  
-- 🤖 **IA para Data Science** → modelos preditivos com Scikit-learn  
 
 ---
 
 ## 🌎 Onde me encontrar
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-link)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=fff)](https://seu-site.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
+<!--![![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=fff)](https://seu-site.com)-->
 
 </div>
