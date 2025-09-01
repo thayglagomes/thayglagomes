@@ -8,9 +8,9 @@
 1️⃣ Tech Stack / Skills
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,js,html,css,git,vscode)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver&perline=3)
-
+![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,js,html,css,git)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,postgresql&perline=3)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,vscode&titles=true)
 </div>
 
 ---
