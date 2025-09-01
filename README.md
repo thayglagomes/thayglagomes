@@ -44,7 +44,9 @@
 
 5️⃣ Onde me encontrar
 <div align="center">
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/))
 
 <!--
