@@ -23,9 +23,8 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayglagomes&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thayglagomes&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayglagomes&layout=compact&theme=tokyonight)
 
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayglagomes&theme=default&count_private=true&title_color=FFFFFF&icon_color=000000&text_color=000000&bg_color=C77F28)
