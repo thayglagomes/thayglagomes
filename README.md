@@ -24,7 +24,8 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaygla&count_private=true&show_icons=true&theme=default&title_color=FFA500&icon_color=FFA500&text_color=FFD580&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaygla&show_icons=true&count_private=true&theme=default&title_color=FFA500&icon_color=FFA500&text_color=FFD580&bg_color=0D1117)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thaygla&theme=dark&fire=FFA500&currStreakNum=FFA500&stroke=FFD580)
 
 
