@@ -46,8 +46,7 @@
 <div align="center">
 
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" style="background-color:#fff"/>]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0366D6?style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0366D6?style=for-the-badge&logoColor=fff](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=LINKEDIN))](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
 
 
 <!--
