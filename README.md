@@ -23,7 +23,9 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayglagomes&show_icons=true&theme=tokyonight)
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thayglagomes&theme=tokyonight)
 
 
