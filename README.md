@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Thaygla  
+# 👋 Olá, eu sou Thaygla GC
 
 💻 Desenvolvedora **Python | Django | SQL | Data Science |**  
 🚀 Explorando: **IA, Agentes de IA e UX/UI**  
@@ -32,13 +32,16 @@
 <!--!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayglagomes&layout=compact&theme=dark)-->
 
 </div>
-
+---
+- [Catálogo IntimoSex](https://github.com/thayglagomes/Projeto_intimosex) – JavaScript + Json + HTML + CSS  
+- [Dashboard de Doadores](https://github.com/thaygla/dashboard-doadores) – PDF dinâmico e relatórios  
+- [Portfolio Pessoal](https://github.com/thaygla/portfolio) – Frontend moderno e responsivo
 ---
 
 ## 🌎 Onde me encontrar
 <div align="center">
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
-<!--![![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=fff)](https://seu-site.com)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)]([https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
+<!--
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)![![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=fff)](https://seu-site.com)-->
 
 </div>
