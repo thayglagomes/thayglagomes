@@ -45,7 +45,7 @@
 5️⃣ Onde me encontrar
 <div align="center">
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" style="fill:#0366D6"/>](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
 
 
 <!--
