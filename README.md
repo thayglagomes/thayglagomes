@@ -8,14 +8,14 @@
 ## 🚀 Tech Stack
 <div align="center">
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-A371F7?style=for-the-badge&logo=bootstrap&logoColor=6F42C1)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=58A6FF)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-0366D6?style=for-the-badge&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-0A3069?style=for-the-badge&logo=django&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0366D6?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-0366D6?style=for-the-badge&logo=databricks&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-0366D6?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-0366D6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0366D6?style=for-the-badge&logo=javascript&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-0366D6?style=for-the-badge&logo=git&logoColor=fff)
 
 </div>
 
