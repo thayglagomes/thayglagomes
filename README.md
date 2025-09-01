@@ -10,8 +10,8 @@
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-092E20?style=for-the-badge&logo=bootstrap&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-092E20?style=for-the-badge&logo=bootstrap&logoColor=6F42C1)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=58A6FF)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 </div>
