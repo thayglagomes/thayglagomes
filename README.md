@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tech Stack
+1️⃣ Tech Stack / Skills
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+4️⃣ Estatísticas do GitHub
 <div align="center">
 
 
@@ -35,6 +35,7 @@
 
 ---
 
+3️⃣ Projetos em Destaque
 [Catálogo IntimoSex](https://github.com/thayglagomes/Projeto_intimosex) – JavaScript + Json + HTML + CSS  
 [Portfolio Pessoal](https://github.com/thayglagomes/PortfolioTGC) – Frontend moderno e responsivo
 
