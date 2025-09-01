@@ -13,6 +13,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=58A6FF)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=58A6FF)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF)
@@ -37,14 +39,13 @@
 
 3️⃣ Projetos em Destaque
 
-[Catálogo IntimoSex](https://github.com/thayglagomes/Projeto_intimosex) – JavaScript + Json + HTML + CSS  
-[Portfolio Pessoal](https://github.com/thayglagomes/PortfolioTGC) – Frontend moderno e responsivo
+🔗 [Catálogo IntimoSex](https://github.com/thayglagomes/Projeto_intimosex) – JavaScript + Json + HTML + CSS  
+🔗 [Portfolio Pessoal](https://github.com/thayglagomes/PortfolioTGC) – Frontend moderno e responsivo
 
 ---
 
 5️⃣ Onde me encontrar
 <div align="center">
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0366D6?style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
 
