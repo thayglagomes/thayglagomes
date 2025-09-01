@@ -8,8 +8,8 @@
 1️⃣ Tech Stack / Skills
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,js,html,css,git,vscode,sqlserver)  
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=58A6FF)
+![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,js,html,css,git,vscode)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver&perline=3)
 
 </div>
 
