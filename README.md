@@ -45,9 +45,8 @@
 5️⃣ Onde me encontrar
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/))
 
 <!--
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/thaygla-gomes-costa-029331341/)![![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=fff)](https://seu-site.com)-->
