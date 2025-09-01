@@ -24,8 +24,8 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thayglagomes&theme=tokyonight)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=thayglagomes)
 
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayglagomes&theme=default&count_private=true&title_color=FFFFFF&icon_color=000000&text_color=000000&bg_color=C77F28)
