@@ -25,7 +25,7 @@
 <div align="center">
 
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayglagomes&theme=default&count_private=true&title_color=FFFFFF&icon_color=000000&text_color=000000&bg_color=C77F28)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayglagomes&theme=default&count_private=true&title_color=FFFFFF&icon_color=000000&text_color=000000&bg_color=C77F28)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thaygla&theme=dark&fire=FFA500&currStreakNum=FFA500&stroke=FFD580)
 
 
