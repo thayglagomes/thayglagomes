@@ -34,7 +34,8 @@
 </div>
 
 [Catálogo IntimoSex](https://github.com/thayglagomes/Projeto_intimosex) – JavaScript + Json + HTML + CSS  
-[Portfolio Pessoal]([https://github.com/thaygla/portfolio](https://github.com/thayglagomes/PortfolioTGC)) – Frontend moderno e responsivo
+
+[Portfolio Pessoal](https://github.com/thaygla/portfolio](https://github.com/thayglagomes/PortfolioTGC) – Frontend moderno e responsivo
 - 
 ---
 
