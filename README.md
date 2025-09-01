@@ -24,7 +24,7 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayglagomes&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayglagomes&theme=default&title_color=#FFFFFF&icon_color=#C4772D&text_color=#000000&bg_color=#FFFFFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayglagomes&layout=compact&theme=dark)
 
 </div>
